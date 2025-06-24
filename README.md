@@ -2,6 +2,8 @@
 
 This notebook demonstrates 3 trading strategies from basic to advanced using real stock data:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernhardbrugger/quant-trading-strategies-python/blob/main/quant_trading_strategies_3_levels.ipynb)
+
 | Strategy                | Complexity | Logic             |
 |-------------------------|------------|-------------------|
 | SMA Crossover           | Easy       | Trend following   |
